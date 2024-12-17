@@ -1,0 +1,266 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Exer5",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer5",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer4",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer4",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer3",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer3",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer2",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer2",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer1",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer1",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer19",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Exer19",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer14",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Exer14",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Signo",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Signo",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Temperatura",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Temperatura",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Jokenpo",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Jokenpo",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Sorveteria",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Sorveteria",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "IMC",
+            "request": "launch",
+            "mainClass": "pages.condicionais.IMC",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Faltas",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Faltas",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Media",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Media",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Primaria",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Primaria",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Nacional",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Nacional",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aprovado",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Aprovado",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Calculadora",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Cinema",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Cinema",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Data",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Data",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Dollareal",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Dollareal",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Febre",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Febre",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Kilosgramas",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Kilosgramas",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Maior",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Maior",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Mes",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Mes",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Nome",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Nome",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Orcamento",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Orcamento",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "ParImpar",
+            "request": "launch",
+            "mainClass": "pages.condicionais.ParImpar",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Parcelas",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Parcelas",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Parque",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Parque",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Realdollar",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Realdollar",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Salario",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Salario",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Semaforo",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Semaforo",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Semana",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Semana",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Semestre",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Semestre",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Triangulo",
+            "request": "launch",
+            "mainClass": "pages.condicionais.Triangulo",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        }
+    ]
+}
