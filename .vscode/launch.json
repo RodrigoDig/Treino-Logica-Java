@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exer14",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer14",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer13",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer13",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer12",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer12",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer11",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer11",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer10",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer10",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer9",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer9",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer8",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer8",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer7",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer7",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer6",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer6",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
             "name": "Exer5",
             "request": "launch",
             "mainClass": "pages.repeticao.Exer5",
