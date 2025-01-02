@@ -5,3 +5,40 @@ Exemplo: 5 linhas
     3 2 1 2 3
   4 3 2 1 2 3 4
 5 4 3 2 1 2 3 4 5 */
+
+package pages.repeticao;
+
+import java.util.Scanner;
+
+class Exer26{
+  static Scanner input = new Scanner(System.in);
+
+  public static int linhas(){
+
+    System.out.printf("Informe a quantidade de linhas: ");
+    int linhas = input.nextInt();
+
+    return linhas;
+  }
+
+  public static void impressao(int linhas){
+
+    for(int i = 1; i <= linhas; i++){
+
+      for(int j = 0; j <= linhas - i; j++){
+        System.out.printf(" ");
+      }
+
+      for(int j = 1; j <= i; j++){
+        System.out.printf("%d ", i+j);
+      }
+
+      System.out.println();
+    }
+  }
+
+  public static void main(String[] args){
+    int linhas = linhas();
+    impressao(linhas);
+  }
+}

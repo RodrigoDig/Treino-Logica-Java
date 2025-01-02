@@ -4,3 +4,39 @@ Exemplo: 4 linhas
 2 3
 4 5 6
 7 8 9 10 */
+
+package pages.repeticao;
+
+import java.util.Scanner;
+
+class Exer24{
+
+    static Scanner input = new Scanner(System.in);
+
+    public static int linhas(){
+        
+        System.out.printf("Informe a quantidade de linhas: ");
+        int linhas = input.nextInt();
+
+        return linhas;
+    }
+
+    public static void impressao(int linhas){
+
+        for(int i = 1; i <= linhas; i++){
+            
+            for(int j = 1; j <= i; j++){
+
+                System.out.printf("%d ", i);
+
+            }
+            
+            System.out.println();               
+        }
+    }
+
+    public static void main(String[] args) {
+        int linhas = linhas();
+        impressao(linhas);
+    }
+}

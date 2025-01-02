@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exer26",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer26",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer25",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer25",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer23",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer23",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer24",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer24",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer20",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer20",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer19",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer19",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer18",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer18",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer17",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer17",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer16",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer16",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
+            "name": "Exer15",
+            "request": "launch",
+            "mainClass": "pages.repeticao.Exer15",
+            "projectName": "treinoLogicaBasica_92e88de7"
+        },
+        {
+            "type": "java",
             "name": "Exer14",
             "request": "launch",
             "mainClass": "pages.repeticao.Exer14",
